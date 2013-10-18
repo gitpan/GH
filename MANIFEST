@@ -19,7 +19,7 @@ GH/Align/t/D861.hacked
 GH/EditOp/EditOp.pm
 GH/EditOp/EditOp.xs
 GH/EditOp/Makefile.PL
-GH/EditOp/editop.c
+GH/EditOp/_editop.c
 GH/EditOp/editop.h
 GH/EditOp/t/editop.t
 GH/EditOp/typemap
