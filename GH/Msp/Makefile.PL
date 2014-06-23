@@ -9,5 +9,5 @@ WriteMakefile(
     'DEFINE'		=> '', # e.g., '-DHAVE_SOMETHING'
     'INC'		=> '-I..', # e.g., '-I/usr/include/other'
     'CCFLAGS'		=> '-g',
-    'OBJECT'		=> 'Msp.o msp.o',
+    'OBJECT'		=> 'Msp.o msp_.o',
 );
