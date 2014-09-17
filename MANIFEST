@@ -28,7 +28,7 @@ GH/Msp/Changes
 GH/Msp/Makefile.PL
 GH/Msp/Msp.pm
 GH/Msp/Msp.xs
-GH/Msp/msp.c
+GH/Msp/msp_.c
 GH/Msp/msp.h
 GH/Msp/t/msp.t
 GH/Msp/typemap
